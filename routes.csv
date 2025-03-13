@@ -1,0 +1,66 @@
+Departure Station,Arrival Destination,Route,mileage,Distance,CO2e emissionss
+London Paddington,Liverpool Lime Street,London Paddington to Liverpool Lime Street,209.5,337.295,12.4596773
+London Kings Cross,York,London Kings Cross to York,208.8,336.168,12.41804592
+Liverpool Lime Street,Manchester Piccadilly,Liverpool Lime Street to Manchester Piccadilly,34.3,55.223,2.03993762
+London Paddington,Reading,London Paddington to Reading,41.1,66.171,2.44435674
+Liverpool Lime Street,London Euston,Liverpool Lime Street to London Euston,212.1,341.481,12.61430814
+London Euston,Oxford,London Euston to Oxford,61.7,99.337,3.66950878
+London Euston,York,London Euston to York,202.6,326.186,12.04931084
+York,Durham,York to Durham,76.2,122.682,4.53187308
+Manchester Piccadilly,Liverpool Lime Street,Manchester Piccadilly to Liverpool Lime Street,34.3,55.223,2.03993762
+Birmingham New Street,London St Pancras,Birmingham New Street to London St Pancras,118.3,190.463,7.03570322
+London St Pancras,Birmingham New Street,London St Pancras to Birmingham New Street,116.9,188.209,6.95244046
+Birmingham New Street,Manchester Piccadilly,Birmingham New Street to Manchester Piccadilly,89.6,144.256,5.32881664
+London Euston,Birmingham New Street,London Euston to Birmingham New Street,117.4,189.014,6.98217716
+Manchester Piccadilly,London Paddington,Manchester Piccadilly to London Paddington,219.1,352.751,13.03062194
+Oxford,Bristol Temple Meads,Oxford to Bristol Temple Meads,73.5,118.335,4.3712949
+Birmingham New Street,Tamworth,Birmingham New Street to Tamworth,18,28.98,1.0705212
+Manchester Piccadilly,London Euston,Manchester Piccadilly to London Euston,209.7,337.617,12.47157198
+London Paddington,London Waterloo,London Paddington to London Waterloo,3.6,5.796,0.21410424
+Manchester Piccadilly,Sheffield,Manchester Piccadilly to Sheffield,37.4,60.214,2.22430516
+London St Pancras,Wolverhampton,London St Pancras to Wolverhampton,127.9,205.919,7.60664786
+Liverpool Lime Street,Leeds,Liverpool Lime Street to Leeds,71.9,115.759,4.27613746
+Birmingham New Street,Stafford,Birmingham New Street to Stafford,31.3,50.393,1.86151742
+Birmingham New Street,London Euston,Birmingham New Street to London Euston,119.9,193.039,7.13086066
+York,Doncaster,York to Doncaster,35.4,56.994,2.10535836
+London Euston,Manchester Piccadilly,London Euston to Manchester Piccadilly,198.9,320.229,11.82925926
+Reading,Swindon,Reading to Swindon,44.6,71.806,2.65251364
+London Paddington,Oxford,London Paddington to Oxford,56.5,90.965,3.3602471
+Manchester Piccadilly,Nottingham,Manchester Piccadilly to Nottingham,100.6,161.966,5.98302404
+Manchester Piccadilly,Leeds,Manchester Piccadilly to Leeds,51.8,83.398,3.08072212
+York,Peterborough,York to Peterborough,125.9,202.699,7.48770106
+London Kings Cross,Liverpool Lime Street,London Kings Cross to Liverpool Lime Street,209.4,337.134,12.45372996
+York,Edinburgh,York to Edinburgh,208.8,336.168,12.41804592
+Reading,London Paddington,Reading to London Paddington,40.2,64.722,2.39083068
+Liverpool Lime Street,Crewe,Liverpool Lime Street to Crewe,47.7,76.797,2.83688118
+Manchester Piccadilly,London Kings Cross,Manchester Piccadilly to London Kings Cross,208.3,335.363,12.38830922
+London St Pancras,Leicester,London St Pancras to Leicester,100.4,161.644,5.97112936
+Birmingham New Street,Nuneaton,Birmingham New Street to Nuneaton,26.7,42.987,1.58793978
+Birmingham New Street,Reading,Birmingham New Street to Reading,94.5,152.145,5.6202363
+York,Birmingham New Street,York to Birmingham New Street,141.2,227.332,8.39764408
+Reading,Didcot,Reading to Didcot,16,25.76,0.9515744
+Reading,Oxford,Reading to Oxford,26.2,42.182,1.55820308
+Birmingham New Street,Liverpool Lime Street,Birmingham New Street to Liverpool Lime Street,100.2,161.322,5.95923468
+London Kings Cross,Edinburgh Waverley,London Kings Cross to Edinburgh Waverley,394.2,634.662,23.44441428
+Manchester Piccadilly,York,Manchester Piccadilly to York,81.1,130.571,4.82329274
+Liverpool Lime Street,London St Pancras,Liverpool Lime Street to London St Pancras,212.7,342.447,12.64999218
+Edinburgh Waverley,London Kings Cross,Edinburgh Waverley to London Kings Cross,394.6,635.306,23.46820364
+Liverpool Lime Street,Sheffield,Liverpool Lime Street to Sheffield,77.1,124.131,4.58539914
+Birmingham New Street,Edinburgh,Birmingham New Street to Edinburgh,323.2,520.352,19.22180288
+Birmingham New Street,London Paddington,Birmingham New Street to London Paddington,115.4,185.794,6.86323036
+Birmingham New Street,York,Birmingham New Street to York,131.1,211.071,7.79696274
+Reading,Birmingham New Street,Reading to Birmingham New Street,94.7,152.467,5.63213098
+Manchester Piccadilly,London St Pancras,Manchester Piccadilly to London St Pancras,208.8,336.168,12.41804592
+Birmingham New Street,Coventry,Birmingham New Street to Coventry,19.1,30.751,1.13594194
+York,Leeds,York to Leeds,27.7,44.597,1.64741318
+Reading,Liverpool Lime Street,Reading to Liverpool Lime Street,196.3,316.043,11.67462842
+London Paddington,Manchester Piccadilly,London Paddington to Manchester Piccadilly,209.9,337.939,12.48346666
+York,Edinburgh Waverley,York to Edinburgh Waverley,209.7,337.617,12.47157198
+Liverpool Lime Street,London Paddington,Liverpool Lime Street to London Paddington,222.3,357.903,13.22093682
+Birmingham New Street,London Kings Cross,Birmingham New Street to London Kings Cross,121.3,195.293,7.21412342
+Birmingham New Street,Wolverhampton,Birmingham New Street to Wolverhampton,16.7,26.887,0.99320578
+York,Wakefield,York to Wakefield,32.4,52.164,1.92693816
+York,Liverpool Lime Street,York to Liverpool Lime Street,101.5,163.415,6.0365501
+Bristol Temple Meads,Cardiff Central,Bristol Temple Meads to Cardiff Central,45.2,72.772,2.68819768
+Liverpool Lime Street,Birmingham New Street,Liverpool Lime Street to Birmingham New Street,99.1,159.551,5.89381394
+Manchester Piccadilly,Warrington,Manchester Piccadilly to Warrington,19.7,31.717,1.17162598

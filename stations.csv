@@ -1,0 +1,33 @@
+Station,Latitude,Longitude,Station ID,City
+London Paddington,51.5168132,-0.1777121,PAD,London
+London Kings Cross,51.5323954,-0.1230224,KGX,London
+Liverpool Lime Street,53.4076085,-2.9775854,LIV,Liverpool
+London Euston,51.5288526,-0.1341909,EUS,London
+York,53.96565785,-1.074305244,YRK,York
+Manchester Piccadilly,53.47741975,-2.230833395,MAN,Manchester
+Birmingham New Street,52.4776459,-1.898694,BHM,Birmingham
+London St Pancras,51.5328319,-0.1264972,STP,London
+Oxford,51.7520131,-1.2578499,OXF,Oxford
+Reading,51.4564242,-0.9700664,RDG,Reading
+Edinburgh Waverley,55.9519018,-3.1904199,EWV,Edinburgh
+Bristol Temple Meads,51.4490991,-2.5804029,BRI,Bristol
+Durham,54.666667,-1.75,DHM,Durham
+Tamworth,52.6345819,-1.6948438,TAM,Tamworth
+London Waterloo,51.5028379,-0.112801,WAT,London
+Sheffield,53.3806626,-1.4702278,SHF,Sheffield
+Wolverhampton,52.5847651,-2.127567,WVH,Wolverhampton
+Leeds,53.7974185,-1.5437941,LDS,Leeds
+Stafford,52.8063157,-2.1163818,STA,Stafford
+Doncaster,53.5227681,-1.1335312,DON,Doncaster
+Swindon,51.5615327,-1.7854322,SWI,Swindon
+Nottingham,52.9534193,-1.1496461,NOT,Nottingham
+Peterborough,52.5725769,-0.2427336,PBO,Peterborough
+Edinburgh,55.9533456,-3.1883749,EDB,Edinburgh
+Crewe,53.0996153,-2.4414627,CRE,Crewe
+Leicester,52.6362,-1.1331969,LEI,Leicester
+Nuneaton,52.5246182,-1.4684488,NUN,Nuneaton
+Didcot,51.6056908,-1.2467923,DID,Didcot
+Coventry,52.4081812,-1.510477,COV,Coventry
+Wakefield,53.6829541,-1.4967286,WKF,Wakefield
+Cardiff Central,51.4755495,-3.1797057,CDF,Cardiff
+Warrington,53.4018582,-2.56802236,WAC,Warrington
